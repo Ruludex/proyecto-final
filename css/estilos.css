@@ -1,0 +1,244 @@
+@font-face {
+  font-family: harry;
+  src: url(../../asset/typography/HARRYP__.TTF);
+}
+a:hover {
+  color: red !important;
+}
+
+h1 {
+  color: yellow !important;
+  font-family: harry;
+}
+
+.nav-link {
+  color: yellow !important;
+  font-family: harry;
+}
+
+h3 {
+  color: yellow !important;
+  font-family: harry;
+}
+
+h2 {
+  color: rgb(138, 11, 11) !important;
+  font-family: harry;
+}
+
+.g {
+  color: rgb(255, 81, 0) !important;
+  font-family: harry;
+}
+
+.r {
+  color: rgb(0, 17, 255) !important;
+  font-family: harry;
+}
+
+.h {
+  color: yellow !important;
+  font-family: harry;
+}
+
+.s {
+  color: rgb(21, 255, 0) !important;
+  font-family: harry;
+}
+
+h4 {
+  color: rgb(138, 11, 11) !important;
+  font-family: harry;
+}
+
+h1 {
+  font-size: 75px;
+}
+
+.nav-link {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 50px;
+}
+
+p {
+  font-size: 22px;
+}
+
+h2 {
+  font-size: 60px;
+}
+
+.g {
+  font-size: 70px;
+}
+
+.r {
+  font-size: 70px;
+}
+
+.s {
+  font-size: 70px;
+}
+
+.h {
+  font-size: 70px;
+}
+
+h4 {
+  font-size: 45px;
+}
+
+header {
+  background: rgb(138, 7, 7);
+  background: linear-gradient(180deg, rgb(138, 7, 7) 0%, rgba(252, 241, 116, 0) 100%, rgb(78, 40, 27) 100%);
+}
+header h1 {
+  margin-top: 0px;
+}
+
+body {
+  background: rgb(207, 38, 38);
+  background: radial-gradient(circle, rgba(207, 38, 38, 0.8575805322) 0%, rgb(0, 0, 0) 29%);
+}
+
+article {
+  padding: 5%;
+}
+article img {
+  border-radius: 15px;
+}
+article p {
+  color: rgb(255, 255, 255);
+  font-family: roboto;
+  padding: 3%;
+}
+article p::first-letter {
+  font-size: 50px;
+  font-family: HARRY;
+  color: yellow;
+}
+article h2 {
+  text-align: center;
+}
+article li {
+  font-family: roboto;
+}
+
+footer {
+  background: rgb(138, 7, 7);
+  background: linear-gradient(0deg, rgb(138, 7, 7) 0%, rgba(252, 241, 116, 0) 100%, rgb(78, 40, 27) 100%);
+  text-align: center;
+}
+footer .bi-facebook {
+  font-size: 50px;
+  color: rgb(6, 97, 201);
+  border-radius: 50px;
+  letter-spacing: 30px;
+}
+footer .bi-instagram {
+  font-size: 50px;
+  color: rgb(255, 0, 0);
+  letter-spacing: 30px;
+}
+footer .bi-steam {
+  font-size: 50px;
+  color: rgb(104, 96, 96);
+  letter-spacing: 30px;
+}
+footer .bi-twitter {
+  font-size: 50px;
+  color: #0084ff;
+  letter-spacing: 30px;
+}
+footer audio {
+  width: 50%;
+  height: 30px;
+}
+
+.card {
+  background-color: rgba(139, 0, 0, 0);
+  padding: 20px;
+  border: rgba(255, 0, 0, 0) solid;
+}
+.card img {
+  width: 300px;
+  height: 450px;
+  border-radius: 15px;
+}
+.card li {
+  background-color: rgba(0, 0, 0, 0);
+  color: yellow;
+}
+
+main .form-label {
+  color: #0084ff;
+  font-family: harry;
+  font-size: 35px;
+}
+main .contacto {
+  background-color: rgb(71, 25, 25);
+}
+main fieldset {
+  text-align: center;
+}
+main textarea {
+  width: 100%;
+  height: 150px;
+}
+main .casa1 {
+  font-family: Roboto;
+  font-size: 23px;
+  color: #ff0000;
+}
+main .casa2 {
+  font-family: Roboto;
+  font-size: 23px;
+  color: #002fff;
+}
+main .casa3 {
+  font-family: Roboto;
+  font-size: 23px;
+  color: #fbff00;
+}
+main .casa4 {
+  font-family: Roboto;
+  font-size: 23px;
+  color: #33ff00;
+}
+main .enviar {
+  display: inline-flex;
+  width: 25%;
+  height: 50px;
+  background: rgba(255, 0, 0, 0.5);
+  font-family: harry;
+  font-size: 25px;
+  color: rgba(238, 255, 0, 0.76);
+  justify-content: center;
+  text-transform: uppercase;
+  border-radius: 15px;
+  position: relative;
+  left: 38%;
+}
+main .contacto p {
+  position: relative;
+  top: 100px;
+  height: 250px;
+}
+
+#galeria img {
+  width: 100%;
+  height: 300px;
+}
+
+#galeria .col-lg-4 {
+  padding: 25px;
+}
+
+#galeria img:hover {
+  border: 5px solid rgba(245, 245, 245, 0.192);
+}
+
+/*# sourceMappingURL=estilos.css.map */
